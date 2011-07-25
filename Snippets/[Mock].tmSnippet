@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Mock]
+public var ${1:flavour}:${2:Ingredient};</string>
+	<key>name</key>
+	<string>[Mock]</string>
+	<key>scope</key>
+	<string>source.actionscript.3 meta.package.actionscript.3 meta.class.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>mock</string>
+	<key>uuid</key>
+	<string>06CF46DA-5985-4294-BCAB-111F8C971E14</string>
+</dict>
+</plist>

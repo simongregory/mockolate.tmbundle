@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>import mockolate.received;
+import mockolate.runner.MockolateRunner;
+import mockolate.stub;
+import mockolate.mock;
+
+MockolateRunner;
+
+[RunWith("mockolate.runner.MockolateRunner")]</string>
+	<key>name</key>
+	<string>imports</string>
+	<key>scope</key>
+	<string>source.actionscript.3 meta.package.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>mock</string>
+	<key>uuid</key>
+	<string>31BAC704-6B6E-4553-B478-5DCA83ADC0B3</string>
+</dict>
+</plist>

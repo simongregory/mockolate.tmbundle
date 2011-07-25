@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Before(async, timeout=5000)]
+public function ${1:prepareMockolates}():void
+{
+    Async.proceedOnEvent(this,
+        prepare(${2:Flavour}, ${3:DarkChocolate}),
+        Event.COMPLETE);
+}</string>
+	<key>name</key>
+	<string>prepare</string>
+	<key>scope</key>
+	<string>source.actionscript.3 meta.package.actionscript.3 meta.class.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>mock</string>
+	<key>uuid</key>
+	<string>D7342457-BBCD-421F-9F16-1E9D1119D647</string>
+</dict>
+</plist>

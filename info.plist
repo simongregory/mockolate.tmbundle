@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Mockolate</string>
+	<key>ordering</key>
+	<array>
+		<string>31BAC704-6B6E-4553-B478-5DCA83ADC0B3</string>
+		<string>06CF46DA-5985-4294-BCAB-111F8C971E14</string>
+		<string>D7342457-BBCD-421F-9F16-1E9D1119D647</string>
+		<string>DB0C7283-E0A6-42A2-A56A-7E9B43753633</string>
+		<string>C4609022-4C49-4E49-8947-89B54BF16CCD</string>
+		<string>8874C8D0-8611-4A67-9BBF-944DE282ED75</string>
+		<string>619F2110-98B9-4818-BF35-B0B6049798D2</string>
+	</array>
+	<key>uuid</key>
+	<string>611A5F97-4F65-45D9-86D0-7F5D10EEED28</string>
+</dict>
+</plist>
